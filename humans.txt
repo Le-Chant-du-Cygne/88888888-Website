@@ -1,0 +1,13 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Simon Chauvin -- Design & Code -- @SimonChauvin
+    Gaël Bourhis -- Design & Code -- www.simonchauvin.com -- @gaelBourhis
+    Romain Enselme -- Design & Code -- @AGavaldaKedavra
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    Bootstrap, jQuery, Modernizr
