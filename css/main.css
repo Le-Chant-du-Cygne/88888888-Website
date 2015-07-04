@@ -35,13 +35,14 @@ body{
 
 h1{
     color: #ccc;
-    margin-bottom: 15px;
+    margin-top: 30px;
+    margin-bottom: 20px;
 }
 
 h3{
     color: #ccc;
-    margin-bottom: 15px;
-    margin-top: 15px;
+    margin-top: 20px;
+    margin-bottom: 20px; 
 }
 
 .video-container{
@@ -81,4 +82,18 @@ h3{
 
 .name{
     color : #aaa;
+}
+
+p.credids{
+    
+}
+
+p.description{
+    
+}
+
+.footer{
+    margin-top: 40px;
+    margin-bottom: 20px;
+    text-align: right;
 }
