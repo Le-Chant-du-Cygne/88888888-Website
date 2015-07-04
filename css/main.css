@@ -26,3 +26,57 @@
     font-weight: normal;
     font-style: normal;
 }*/
+
+
+body{
+    background-color: #111;
+    color: #666;
+}
+
+h1{
+    color: #ccc;
+    margin-bottom: 15px;
+}
+
+h3{
+    color: #ccc;
+}
+
+.video-container{
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-bottom: 60%;
+}
+
+.video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.content{
+    
+    //margin-left: -20px;
+}
+.content a{
+    font-style: italic;
+    color: #9ab;
+}
+
+.content a:hover{
+    text-decoration: underline;
+    color: #def;
+}
+
+
+.content img{
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+
+.name{
+    color : #aaa;
+}
