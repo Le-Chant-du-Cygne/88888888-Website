@@ -30,7 +30,7 @@
 
 body{
     background-color: #111;
-    color: #666;
+    color: #777;
 }
 
 h1{
@@ -40,6 +40,8 @@ h1{
 
 h3{
     color: #ccc;
+    margin-bottom: 15px;
+    margin-top: 15px;
 }
 
 .video-container{
@@ -58,11 +60,11 @@ h3{
 }
 
 .content{
-    
+
     //margin-left: -20px;
 }
 .content a{
-    font-style: italic;
+    //font-style: italic;
     color: #9ab;
 }
 
