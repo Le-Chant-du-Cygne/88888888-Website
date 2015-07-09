@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- example file containing base tags -->
+
+<game>	
+	<title>88888888</title>
+	<founding-date>June 5, 2010</founding-date>
+	<website>http://www.88888888.lechantducygne.com/</website>
+	<based-in>Paris, France</based-in>
+	
+	<press-contact>contact@lechantducygne.com</press-contact>
+
+	<socials>
+		<social>
+			<name>twitter.com/LeChantduCygne</name>
+			<link>twitter.com/LeChantduCygne</link>
+		</social>
+		<social>
+			<name>facebook.com/LeChantduCygne</name>
+			<link>facebook.com/LeChantduCygne</link>
+		</social>
+	</socials>
+
+	<description>
+		88888888 is a first person exploration game played with a custom apparatus that enables players to change the color filter through which they look at the screen.
+	</description>
+		
+	<histories>
+		<history>
+			<header>Concept</header>
+			<text>88888888 empowers players to change the color filter through which they see the game space. Each color filter reveals different parts of the world. Players must find their way through the maze by changing filters and revealing places, doors, stairways and hallways that they could not see otherwise.</text>
+		</history>
+		<history>
+			<header>The Helmet</header>
+			<text>88888888 uses a custom mechanical helmet featuring three different positions associated with three different color filters: red, blue and green. Players can switch from one filter to another by using the handles present on the helmet's sides.</text>
+		</history>
+	</histories>
+		
+	<trailers>
+		<trailer>
+			<name>Trailer</name>
+			<vimeo>133033085</vimeo>
+		</trailer>
+	</trailers>
+	
+	<awards>
+		<award>
+			<description>Exhibited during Take The Blows' party.</description>
+			<info>Badaboom, Paris, 5 June, 2015</info>
+		</award>
+	</awards>
+	
+	<press-can-request-copy>TRUE</press-can-request-copy> <!-- can be true or false -->
+	<monetization-permission>monetize</monetization-permission> <!-- can be: 	false (no video allowed),
+																			 	ask (permission on case-per-case basis),
+																			 	non-commercial (no monetization allowed),
+																			 	monetize (full permission) -->	
+	<additionals>
+		<additional>
+			<title>Gaël Bourhis on Twitter</title>
+			<description>Personal twitter for Gaël Bourhis (@gaelBourhis) available at</description>
+			<link>http://twitter.com/gaelBourhis</link>
+		</additional>
+                <additional>
+			<title>Simon Chauvin on Twitter</title>
+			<description>Personal twitter for Simon Chauvin (@SimonChauvin) available at</description>
+			<link>http://twitter.com/SimonChauvin</link>
+		</additional>
+                <additional>
+			<title>Romain Enselme on Twitter</title>
+			<description>Personal twitter for Romain Enselme (@AGavaldaKedavra) available at</description>
+			<link>http://twitter.com/AGavaldaKedavra</link>
+		</additional>
+	</additionals>
+	
+	<credits>
+		<credit>
+			<person>Gaël Bourhis</person>
+		</credit>
+		<credit>
+			<person>Simon Chauvin</person>
+		</credit>
+		<credit>
+			<person>Romain Enselme</person>
+		</credit>
+	</credits>
+	
+	<contacts>
+		<contact>
+			<name>Inquiries</name>
+			<mail>contact@lechantducygne.com</mail>
+		</contact>
+		<contact>
+			<name>Twitter</name>
+			<link>http://twitter.com/LeChantduCygne</link>
+		</contact>
+		<contact>
+			<name>Facebook</name>
+			<link>http://facebook.com/LeChantduCygne</link>
+		</contact>
+		<contact>
+			<name>Web</name>
+			<link>lechantducygne.com</link>
+		</contact>
+	</contacts>
+</game>
