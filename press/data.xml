@@ -2,9 +2,9 @@
 <!-- example file containing base tags -->
 
 <game>	
-	<title>88888888</title>
-	<founding-date>June 5, 2010</founding-date>
-	<website>http://www.88888888.lechantducygne.com/</website>
+	<title>Palimpseste</title>
+	<founding-date>June 5, 2015</founding-date>
+	<website>http://www.lechantducygne.com/palimpseste</website>
 	<based-in>Paris, France</based-in>
 	
 	<press-contact>contact@lechantducygne.com</press-contact>
@@ -21,17 +21,17 @@
 	</socials>
 
 	<description>
-		88888888 is a first person exploration game played with a custom apparatus that enables players to change the color filter through which they look at the screen.
+		Palimpseste is a first person exploration game played with a custom apparatus that enables players to change the color filter through which they look at the screen.
 	</description>
 		
 	<histories>
 		<history>
 			<header>Concept</header>
-			<text>88888888 empowers players to change the color filter through which they see the game space. Each color filter reveals different parts of the world. Players must find their way through the maze by changing filters and revealing places, doors, stairways and hallways that they could not see otherwise.</text>
+			<text>Palimpseste empowers players to change the color filter through which they see the game space. Each color filter reveals different parts of the world. Players must find their way through the maze by changing filters and revealing places, doors, stairways and hallways that they could not see otherwise.</text>
 		</history>
 		<history>
 			<header>The Helmet</header>
-			<text>88888888 uses a custom mechanical helmet featuring three different positions associated with three different color filters: red, blue and green. Players can switch from one filter to another by using the handles present on the helmet's sides.</text>
+			<text>Palimpseste uses a custom mechanical helmet featuring three different positions associated with three different color filters: red, blue and green. Players can switch from one filter to another by using the handles present on the helmet's sides.</text>
 		</history>
 	</histories>
 		
