@@ -3,7 +3,7 @@
    ========================================================================== */
 
 /* Fonts */
-/*@font-face {
+@font-face {
     font-family: 'open_sansregular';
     src: url('../fonts/OpenSans-Regular-webfont.eot');
     src: url('../fonts/OpenSans-Regular-webfont.eot?#iefix') format('embedded-opentype'),
@@ -15,6 +15,7 @@
     font-style: normal;
 }
 
+/*
 @font-face {
     font-family: 'bebasregular';
     src: url('../fonts/bebas-webfont.eot');
@@ -27,22 +28,33 @@
     font-style: normal;
 }*/
 
-
 body{
-    background-color: #111;
-    color: #777;
+    background-color: #fff;
+    color: #222;
+    font-family: "open_sansregular";
+    font-size: 1.7em;
+}
+
+#container{
+   visibility: hidden;
+}
+
+.section{
+    margin-bottom: 80px;
 }
 
 h1{
-    color: #ccc;
+    color: #000;
     margin-top: 30px;
     margin-bottom: 20px;
 }
 
 h3{
-    color: #ccc;
+    color: #000;
     margin-top: 20px;
     margin-bottom: 20px; 
+    text-transform: uppercase;
+    border-bottom: 1px dotted #777;
 }
 
 .video-container{
@@ -66,22 +78,41 @@ h3{
 }
 .content a{
     //font-style: italic;
-    color: #9ab;
+    color: #777;
 }
 
 .content a:hover{
     text-decoration: underline;
-    color: #def;
+    color: #111;
+}
+
+.screenshots-container{
+    margin-left: -10px;
+    margin-right: -10px;
 }
 
 
+.screenshot{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
 .content img{
-    padding-bottom: 15px;
-    padding-top: 15px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.name-big{
+    margin-right: 15px;
+    color : #000;
+    text-transform: uppercase;
+    font-weight: 500;
+    line-height: 1.1;
+    font-size: 1.4em; 
 }
 
 .name{
-    color : #aaa;
+    color : #111;
 }
 
 p.credids{
@@ -92,8 +123,12 @@ p.description{
     
 }
 
+.exhibition{
+    
+}
+
 .footer{
-    margin-top: 40px;
+    margin-top: 160px;
     margin-bottom: 20px;
     text-align: right;
 }
