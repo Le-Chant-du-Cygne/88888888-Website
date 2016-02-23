@@ -49,6 +49,10 @@ h1{
     margin-bottom: 20px;
 }
 
+.game-genre{
+    font-style: italic;
+}
+
 h3{
     color: #000;
     margin-top: 20px;
